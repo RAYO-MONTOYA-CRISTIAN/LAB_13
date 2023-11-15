@@ -1,0 +1,7 @@
+D:\LAB_13\LAB_13\bin\Debug\LAB_13.exe.config
+D:\LAB_13\LAB_13\bin\Debug\LAB_13.exe
+D:\LAB_13\LAB_13\bin\Debug\LAB_13.pdb
+D:\LAB_13\LAB_13\obj\Debug\LAB_13.csproj.AssemblyReference.cache
+D:\LAB_13\LAB_13\obj\Debug\LAB_13.csproj.CoreCompileInputs.cache
+D:\LAB_13\LAB_13\obj\Debug\LAB_13.exe
+D:\LAB_13\LAB_13\obj\Debug\LAB_13.pdb
